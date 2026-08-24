@@ -2,8 +2,6 @@
 
 I'm a **Data Science and Mechanical Engineering student** building a strong technical foundation in **Python, statistics, data analysis, machine learning, mathematical modeling, and computational problem-solving**.
 
-My main focus is **Data Science**.
-
 I am currently pursuing Data Science studies through **EBAC** and a **Technical Degree in Data Science at Anhanguera**, while also studying Mechanical Engineering.
 
 This combination gives me two complementary perspectives: the ability to work with **data and computational methods**, while understanding the **physical, mathematical, and industrial systems behind that data**.
